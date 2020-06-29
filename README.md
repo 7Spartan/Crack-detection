@@ -4,5 +4,5 @@
 • Used VGG-16 model for crack detection with an accuracy of 90%.
 • Generated heatmap and bounding box over the detected crack using machine vision algorithms.
 
-Programming Language Used - Python
+Programming Language Used - Python.
 Tools Used - PyQt, Jupyter Notebook, OpenCV, Deep Learning, Keras
